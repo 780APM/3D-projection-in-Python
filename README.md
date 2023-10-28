@@ -1,5 +1,5 @@
 # 3D-projection-in-Python
-3D projection using python and pygame. This is a way of projecting 3D dimensions with 2D data. <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+3D projection using python and pygame. This is a way of projecting 3D dimensions with 2D data.
 
 This project is a quick little task i gave myself over the course of a few days to refresh my memory with Python!  I also think that it is a great tool for some visual learning on how people can get into coding. This project covers some really good fundamentals, espically with visualisation of code into an output. 
 
